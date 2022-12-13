@@ -8,4 +8,4 @@ updates:
   - package-ecosystem: "docker" # See documentation for possidble values
     directory: "/" # Location of package manifests
     schedule:
-      interval: "weekly"
+      interval: "deily"
